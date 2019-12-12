@@ -25,7 +25,7 @@
     "canvasjs": "^1.8.1",
     "chart.js": "^2.8.0",
     "core-js": "^2.5.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "ng2-charts": "^2.2.2",
     "ngx-twitter-timeline": "^0.1.5",
     "rxjs": "~6.3.3",
